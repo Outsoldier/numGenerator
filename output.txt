@@ -1,0 +1,4 @@
+How many times do you want to randomize? 
+0What do you want the minimum number to be? 
+100Whats the max number you want to randomize? 
+0Try to guess a number that will be produced 
