@@ -25,6 +25,7 @@ int main()
     int L = 0;
     int* line = new int[L]; // store the lines where the guess was found
     char close; // to close app
+    int x = 1;
 
     myFile << "How many times do you want to randomize? \n";
     std::cout << "How many times do you want to randomize? \n";
